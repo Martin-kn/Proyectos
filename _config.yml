@@ -4,3 +4,7 @@ theme: jekyll-theme-hacker
 title: Proyectos
 
 author: Martin-kn
+
+
+github:
+  is_project_page: false
