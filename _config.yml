@@ -1,8 +1,9 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
 
 title-heading: false
 
 # Name of website
+title: null
 
 
 author: Martin-kn
