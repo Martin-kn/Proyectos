@@ -41,8 +41,5 @@ En estos momentos prefiero usar el tiempo libre en aprender ciberseguridad , pro
 #### Mejoras a futuro: 
 
 - Rack a medida, la idea es hacerlo en madera, colocarle unas ruedas para poder movilizarlo sin problemas y que sea lo más compacto posible.
+- Patch panel
 
-
-### También me gusta ver formas más eficientes de realizar tareas importantes, como hacer un script con ffmpeg para crear gifs como el que ven a continuación.
-
-![Relay!](/Proyectos/patente-pendiente.gif)
